@@ -1,0 +1,8 @@
+[package]
+name = "minimal"
+edition = "2018"
+version = "0.0.1"
+
+[dependencies]
+actix = "0.8.3"
+actix-web = "1.0.5"
